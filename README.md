@@ -1,6 +1,6 @@
 # CodSoft_AndroidDev_QuizApp
 # Run
-npm install
+npm install <br/>
 npm run web or npm run android
 
 
